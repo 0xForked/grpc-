@@ -1,0 +1,23 @@
+{
+    "name": "bakode/grpc-client",
+    "description": "gRPC client with PHP",
+    "autoload": {
+        "psr-4": {
+            "Bakode\\GrpcClient\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "A. A. Sumitro",
+            "email": "hello@aasumitro.id"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "spiral/php-grpc": "^1.5"
+    },
+    "require-dev": {
+        "grpc/grpc": "^1.36"
+    }
+}

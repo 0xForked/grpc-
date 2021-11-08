@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/client/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/client/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/client/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/client/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/client/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/client/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/client/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/client/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/client/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/client/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/client/vendor/google/protobuf" />
+      <path value="$PROJECT_DIR$/client/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/client/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/client/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/client/vendor/laminas/laminas-diactoros" />
+      <path value="$PROJECT_DIR$/client/vendor/spiral/goridge" />
+      <path value="$PROJECT_DIR$/client/vendor/spiral/roadrunner" />
+      <path value="$PROJECT_DIR$/client/vendor/composer" />
+      <path value="$PROJECT_DIR$/client/vendor/spiral/php-grpc" />
+      <path value="$PROJECT_DIR$/client/vendor/grpc/grpc" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.0">
+    <option name="suggestChangeDefaultLanguageLevel" value="false" />
+  </component>
+</project>
