@@ -1,8 +1,8 @@
 <?php declare(strict_types=1);
 
-namespace Bakode\GrpcClient;
+namespace Bakode\gRPC;
 
-use Bakode\GrpcClient\Chats\Message;
+use Bakode\gRPC\Chats\Message;
 use Spiral\GRPC;
 
 interface ChatContact extends GRPC\ServiceInterface
@@ -12,8 +12,8 @@ interface ChatContact extends GRPC\ServiceInterface
 
     /**
      * @param GRPC\ContextInterface $ctx
-     * @param \Bakode\GrpcClient\Chats\Message $in
-     * @return \Bakode\GrpcClient\Chats\Message
+     * @param \Bakode\gRPC\Chats\Message $in
+     * @return \Bakode\gRPC\Chats\Message
      *
      * @throws GRPC\Exception\InvokeException
      */

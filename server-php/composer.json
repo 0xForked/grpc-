@@ -1,9 +1,9 @@
 {
-    "name": "bakode/grpc-client",
+    "name": "bakode/grpc-server",
     "description": "gRPC client with PHP",
     "autoload": {
         "psr-4": {
-            "Bakode\\GrpcClient\\": "src/"
+            "Bakode\\gRPC\\": "src/"
         }
     },
     "authors": [
